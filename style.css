@@ -1,0 +1,66 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+#name-decoration{
+    color: crimson;
+    font-size: 30px;
+}
+.button-design{
+    text-decoration: none;
+    color: white;
+    background-color:crimson;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+#header-sec{
+    background-image: url(./images/header-bg.png);
+    height: 400px;
+    background-position: center;
+}
+section{
+    height: 500px;
+    padding: 80px;
+}
+#bio{
+    background-image: url(./images/biography-bg.png);
+}
+.work-image img{
+    width: 25%;
+    height: 60%;
+    margin: 2%;
+}
+#work-sec{
+    background-image: url(./images/latest-work-bg.png);
+    background-position: center;
+}
+#footer-side{
+    text-align: center;
+    background-image: url(./images/footer-bg.png);
+}
+#footer-side h1{
+    font-size: 40px;
+}
+#gmail-button{
+    color: white;
+    background-color:crimson;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 2% 20% 2% 20%;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
